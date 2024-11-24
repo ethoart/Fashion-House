@@ -15,6 +15,7 @@ export default function Home() {
     }}>
       <Head>
   <link rel="icon" href="https://raw.githubusercontent.com/ethoart/manikeimages/refs/heads/main/logo%20w.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </Head>
       <h1>Fashion House</h1>
       <ConnectEmbed
