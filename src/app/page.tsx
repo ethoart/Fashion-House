@@ -13,10 +13,9 @@ export default function Home() {
       margin: "20px auto",
       width: "500px",
     }}>
-      <Head>
-  <link rel="icon" href="https://raw.githubusercontent.com/ethoart/manikeimages/refs/heads/main/logo%20w.png" />
+      <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</Head>
+</head>
       <h1>Fashion House</h1>
       <ConnectEmbed
         client={client}
