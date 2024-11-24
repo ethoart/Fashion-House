@@ -14,9 +14,6 @@ export default function Home() {
       margin: "20px auto",
       width: "500px",
     }}>
-      <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
       <h1>Fashion House</h1>
       <ConnectEmbed
         client={client}
